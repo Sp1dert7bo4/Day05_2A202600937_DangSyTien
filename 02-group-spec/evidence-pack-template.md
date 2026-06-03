@@ -59,11 +59,11 @@ AI có thể giúp bằng cách đặt một số câu hỏi ngắn để hiểu
 ## 6. Evidence đổi SPEC như thế nào?
 
 - [ ] Đổi user chính.
-- [ ] Đổi pain statement.
-- [ ] Đổi build slice.
+- [x] Đổi pain statement.
+- [x] Đổi build slice.
 - [ ] Đổi Auto/Aug decision.
-- [ ] Đổi 4 paths.
-- [ ] Đổi failure mode.
+- [x] Đổi 4 paths.
+- [x] Đổi failure mode.
 - [ ] Đổi owner/test plan.
 
 Ghi rõ 1-2 thay đổi quan trọng:
